@@ -1,0 +1,19 @@
+#!/usr/bin/python3
+
+import random,time,os
+
+scorefile = "Scores.txt"
+BAD_RETURN_CODE=1
+
+def screen_cleaner():
+  os.system('clear')
+
+
+
+          # MAIN #
+
+if __name__ == "__main__":
+
+
+  screen_cleaner()
+

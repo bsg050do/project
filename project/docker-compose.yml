@@ -1,0 +1,7 @@
+version: '2'
+services:
+ scoreflask:
+  build: ./
+  image: scoreflask:latest
+  ports:
+  - "5000:5000"

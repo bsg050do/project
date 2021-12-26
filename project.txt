@@ -1,0 +1,39 @@
+
+[root@zil56do01v project]# cat Dockerfile
+FROM python:3 
+
+COPY MainScores.py ./
+COPY Utils.py ./
+COPY Scores.txt ./
+
+COPY ./requirements.txt /requirements.txt
+
+RUN pip install -r requirements.txt
+
+CMD [ "python3", "./MainScores.py" ]
+
+--------------------------------------
+
+[root@zil56do01v project]# cat requirements.txt 
+Flask==0.10.1
+wtforms==2.2
+
+--------------------------------------
+
+docker build -t scoreflask .
+
+-------------------------------
+
+docker image ls
+
+-----------------------------------
+
+[root@zil56do01v project]# docker run -p 5000:5000 scoreflask
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+
+-----------------------------------
+
+docker ps 
+
+-----------------------------------

@@ -18,6 +18,15 @@ def add_score(difficulty):
  except bad_return_code:  
     print("Can't open scorefile")
 
+def null_score():
+ try:
+   with open(scorefile,"w") as f:
+      f.write(str("0"))
+      f.close()
+  
+ except bad_return_code:  
+    print("Can't open scorefile")
+
 
           # MAIN #
 

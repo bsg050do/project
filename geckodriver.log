@@ -1,0 +1,1040 @@
+1640589662054	geckodriver	INFO	Listening on 127.0.0.1:57901
+1640589662062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSwCeYK"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640589769117	geckodriver	INFO	Listening on 127.0.0.1:53676
+1640589769124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiles422Vi"
+Running without a11y support!
+Gtk-Message: 09:22:49.286: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:22:49.286: Failed to load module "pk-gtk-module"
+Gtk-Message: 09:22:49.298: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:22:49.298: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.719349) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.719349) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.719525) [GFX1-]: glxtest: process failed (exited with status 1)
+1640589769895	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles422Vi/search.json.mozlz4", (void 0)))
+1640589772380	Marionette	INFO	Listening on port 46504
+1640589772483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640589783091	Marionette	INFO	Stopped listening on port 46504
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640589794865	geckodriver	INFO	Listening on 127.0.0.1:43266
+1640589794873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehimnBK"
+Running without a11y support!
+Gtk-Message: 09:23:15.010: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:23:15.010: Failed to load module "pk-gtk-module"
+Gtk-Message: 09:23:15.012: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:23:15.012: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.482244) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.482244) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.482335) [GFX1-]: glxtest: process failed (exited with status 1)
+1640589795385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehimnBK/search.json.mozlz4", (void 0)))
+1640589797718	Marionette	INFO	Listening on port 43957
+1640589797847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640589800301	Marionette	INFO	Stopped listening on port 43957
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640590985983	geckodriver	INFO	Listening on 127.0.0.1:44986
+1640590985991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFnWG45"
+Running without a11y support!
+Gtk-Message: 09:43:06.133: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:43:06.133: Failed to load module "pk-gtk-module"
+Gtk-Message: 09:43:06.135: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:43:06.135: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.489067) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.489067) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.48916) [GFX1-]: glxtest: process failed (exited with status 1)
+1640590986507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFnWG45/search.json.mozlz4", (void 0)))
+1640590988841	Marionette	INFO	Listening on port 36974
+1640590988966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js?ypv=8.3.108, line 4: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js?ypv=8.3.108, line 4: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js?ypv=8.3.108, line 4: WebGL warning: <Create>: WebglAllowWindowsNativeGl:false restricts context creation on this system.
+JavaScript warning: https://yep.video.yahoo.com/oath/js/1/oath-player.js?ypv=8.3.108, line 4: Failed to create WebGL context: WebGL creation failed: 
+* WebglAllowWindowsNativeGl:false restricts context creation on this system. ()
+* Exhausted GL driver options. (FEATURE_FAILURE_WEBGL_EXHAUSTED_DRIVERS)
+JavaScript error: https://s.yimg.com/rq/darla/4-10-0/js/sfext-min.js, line 2: TypeError: right-hand side of 'in' should be an object, got null
+JavaScript error: https://s.yimg.com/rq/darla/4-10-0/js/sfext-min.js, line 2: TypeError: right-hand side of 'in' should be an object, got null
+1640591247215	Marionette	INFO	Stopped listening on port 36974
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640591251719	geckodriver	INFO	Listening on 127.0.0.1:47288
+1640591251727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNOYpgQ"
+Running without a11y support!
+Gtk-Message: 09:47:31.888: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:47:31.889: Failed to load module "pk-gtk-module"
+Gtk-Message: 09:47:31.891: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:47:31.891: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.503831) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.503831) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.503931) [GFX1-]: glxtest: process failed (exited with status 1)
+1640591252262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNOYpgQ/search.json.mozlz4", (void 0)))
+1640591254595	Marionette	INFO	Listening on port 39931
+1640591254697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640591257578	Marionette	INFO	Stopped listening on port 39931
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1640591562930	geckodriver	INFO	Listening on 127.0.0.1:37531
+1640591562937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQeeFh4"
+Running without a11y support!
+Gtk-Message: 09:52:43.095: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:52:43.096: Failed to load module "pk-gtk-module"
+Gtk-Message: 09:52:43.098: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:52:43.098: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.521063) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.521063) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.521186) [GFX1-]: glxtest: process failed (exited with status 1)
+1640591563497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQeeFh4/search.json.mozlz4", (void 0)))
+1640591565829	Marionette	INFO	Listening on port 42453
+1640591565934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640591567752	Marionette	INFO	Stopped listening on port 42453
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640591585378	geckodriver	INFO	Listening on 127.0.0.1:51035
+1640591585390	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletzH2pb"
+Running without a11y support!
+Gtk-Message: 09:53:05.522: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:53:05.523: Failed to load module "pk-gtk-module"
+Gtk-Message: 09:53:05.525: Failed to load module "canberra-gtk-module"
+Gtk-Message: 09:53:05.525: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.484472) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.484472) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.484586) [GFX1-]: glxtest: process failed (exited with status 1)
+1640591585911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletzH2pb/search.json.mozlz4", (void 0)))
+1640591588293	Marionette	INFO	Listening on port 32930
+1640591588350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640591988093	Marionette	INFO	Stopped listening on port 32930
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640592032942	geckodriver	INFO	Listening on 127.0.0.1:59919
+1640592032949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0Gabn1"
+Running without a11y support!
+Gtk-Message: 10:00:33.086: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:00:33.087: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:00:33.089: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:00:33.089: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505056) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505056) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.505161) [GFX1-]: glxtest: process failed (exited with status 1)
+1640592033489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Gabn1/search.json.mozlz4", (void 0)))
+1640592035640	Marionette	INFO	Listening on port 38571
+1640592035728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640592089983	Marionette	INFO	Stopped listening on port 38571
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640592094893	geckodriver	INFO	Listening on 127.0.0.1:45436
+1640592094900	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileN54iWC"
+Running without a11y support!
+Gtk-Message: 10:01:35.056: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:01:35.057: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:01:35.060: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:01:35.060: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.596654) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.596654) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.596743) [GFX1-]: glxtest: process failed (exited with status 1)
+1640592095521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN54iWC/search.json.mozlz4", (void 0)))
+1640592097773	Marionette	INFO	Listening on port 45329
+1640592097872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640592114304	Marionette	INFO	Stopped listening on port 45329
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640592138390	geckodriver	INFO	Listening on 127.0.0.1:43588
+1640592138398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRL67AK"
+Running without a11y support!
+Gtk-Message: 10:02:18.552: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:02:18.552: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:02:18.555: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:02:18.555: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.557965) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.557965) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.558082) [GFX1-]: glxtest: process failed (exited with status 1)
+1640592138990	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRL67AK/search.json.mozlz4", (void 0)))
+1640592141125	Marionette	INFO	Listening on port 40077
+1640592141175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640592158641	Marionette	INFO	Stopped listening on port 40077
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640594609851	geckodriver	INFO	Listening on 127.0.0.1:42397
+1640594609858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileY8OuVu"
+Running without a11y support!
+Gtk-Message: 10:43:29.999: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:43:30.000: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:43:30.002: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:43:30.002: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.510309) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.510309) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.510406) [GFX1-]: glxtest: process failed (exited with status 1)
+1640594610397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY8OuVu/search.json.mozlz4", (void 0)))
+1640594612592	Marionette	INFO	Listening on port 41187
+1640594612721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640594649743	Marionette	INFO	Stopped listening on port 41187
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640594652163	geckodriver	INFO	Listening on 127.0.0.1:35792
+1640594652171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilep28iLD"
+Running without a11y support!
+Gtk-Message: 10:44:12.292: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:44:12.293: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:44:12.295: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:44:12.295: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.461026) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.461026) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.46113) [GFX1-]: glxtest: process failed (exited with status 1)
+1640594652663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep28iLD/search.json.mozlz4", (void 0)))
+1640594654982	Marionette	INFO	Listening on port 33044
+1640594655060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640594756745	geckodriver	INFO	Listening on 127.0.0.1:51345
+1640594756757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecL7Gpc"
+Running without a11y support!
+Gtk-Message: 10:45:56.931: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:45:56.932: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:45:56.935: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:45:56.935: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.551417) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.551417) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.551507) [GFX1-]: glxtest: process failed (exited with status 1)
+1640594757337	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecL7Gpc/search.json.mozlz4", (void 0)))
+1640594759473	Marionette	INFO	Listening on port 35954
+1640594759571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640594769391	Marionette	INFO	Stopped listening on port 35954
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640594804648	geckodriver	INFO	Listening on 127.0.0.1:49466
+1640594804656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3ApZKB"
+Running without a11y support!
+Gtk-Message: 10:46:44.843: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:46:44.844: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:46:44.851: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:46:44.851: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.584466) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.584466) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.584588) [GFX1-]: glxtest: process failed (exited with status 1)
+1640594805283	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3ApZKB/search.json.mozlz4", (void 0)))
+1640594807527	Marionette	INFO	Listening on port 46145
+1640594807701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640594814520	Marionette	INFO	Stopped listening on port 46145
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640594869437	geckodriver	INFO	Listening on 127.0.0.1:37941
+1640594869445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCTrQXV"
+Running without a11y support!
+Gtk-Message: 10:47:49.583: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:47:49.584: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:47:49.586: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:47:49.586: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.472243) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.472243) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.472343) [GFX1-]: glxtest: process failed (exited with status 1)
+1640594869952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCTrQXV/search.json.mozlz4", (void 0)))
+1640594872319	Marionette	INFO	Listening on port 42143
+1640594872405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640594875655	Marionette	INFO	Stopped listening on port 42143
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640595014703	geckodriver	INFO	Listening on 127.0.0.1:44558
+1640595014710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile49MtRo"
+Running without a11y support!
+Gtk-Message: 10:50:14.864: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:50:14.864: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:50:14.866: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:50:14.866: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.51486) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.51486) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.514956) [GFX1-]: glxtest: process failed (exited with status 1)
+1640595015256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile49MtRo/search.json.mozlz4", (void 0)))
+1640595017636	Marionette	INFO	Listening on port 36279
+1640595017825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640595022902	Marionette	INFO	Stopped listening on port 36279
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640595397900	geckodriver	INFO	Listening on 127.0.0.1:34402
+1640595397911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5wKK5f"
+Running without a11y support!
+Gtk-Message: 10:56:38.060: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:56:38.061: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:56:38.063: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:56:38.063: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.52207) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.52207) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.522181) [GFX1-]: glxtest: process failed (exited with status 1)
+1640595398475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5wKK5f/search.json.mozlz4", (void 0)))
+1640595400631	Marionette	INFO	Listening on port 41351
+1640595400699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640595405810	Marionette	INFO	Stopped listening on port 41351
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640595935810	geckodriver	INFO	Listening on 127.0.0.1:36534
+1640595935822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiKpeZR"
+Running without a11y support!
+Gtk-Message: 11:05:35.983: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:05:35.983: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:05:35.986: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:05:35.986: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.509397) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.509397) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.50949) [GFX1-]: glxtest: process failed (exited with status 1)
+1640595936357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiKpeZR/search.json.mozlz4", (void 0)))
+1640595938614	Marionette	INFO	Listening on port 43815
+1640595938684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640595953627	Marionette	INFO	Stopped listening on port 43815
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640596230961	geckodriver	INFO	Listening on 127.0.0.1:49765
+1640596230969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileIKkk5t"
+Running without a11y support!
+Gtk-Message: 11:10:31.134: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:10:31.135: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:10:31.138: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:10:31.138: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.526112) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.526112) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.526205) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596231529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIKkk5t/search.json.mozlz4", (void 0)))
+1640596233897	Marionette	INFO	Listening on port 32837
+1640596233951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596251187	Marionette	INFO	Stopped listening on port 33044
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640596305953	geckodriver	INFO	Listening on 127.0.0.1:58120
+1640596305960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilev8QBOx"
+Running without a11y support!
+Gtk-Message: 11:11:46.102: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:11:46.102: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:11:46.105: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:11:46.105: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505717) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505717) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.505805) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596306496	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev8QBOx/search.json.mozlz4", (void 0)))
+1640596308709	Marionette	INFO	Listening on port 42226
+1640596308847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596309865	Marionette	INFO	Stopped listening on port 42226
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640596337790	geckodriver	INFO	Listening on 127.0.0.1:41604
+1640596337797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileDC9Bka"
+Running without a11y support!
+Gtk-Message: 11:12:17.938: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:12:17.938: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:12:17.941: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:12:17.941: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.463713) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.463713) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.463805) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596338295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDC9Bka/search.json.mozlz4", (void 0)))
+1640596340397	Marionette	INFO	Listening on port 45642
+1640596340502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596340953	Marionette	INFO	Stopped listening on port 45642
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640596401274	geckodriver	INFO	Listening on 127.0.0.1:58848
+1640596401284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenDKf76"
+Running without a11y support!
+Gtk-Message: 11:13:21.435: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:13:21.436: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:13:21.438: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:13:21.438: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.508078) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.508078) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.508167) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596401831	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenDKf76/search.json.mozlz4", (void 0)))
+1640596404117	Marionette	INFO	Listening on port 40124
+1640596404206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596409344	Marionette	INFO	Stopped listening on port 40124
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640596480817	geckodriver	INFO	Listening on 127.0.0.1:57299
+1640596480829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePLZ9W8"
+Running without a11y support!
+Gtk-Message: 11:14:40.962: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:14:40.962: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:14:40.966: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:14:40.966: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.470337) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.470337) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.470434) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596481333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePLZ9W8/search.json.mozlz4", (void 0)))
+1640596483793	Marionette	INFO	Listening on port 41117
+1640596483896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596484159	Marionette	INFO	Stopped listening on port 41117
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1640596558971	geckodriver	INFO	Listening on 127.0.0.1:60911
+1640596558983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaJ1sp0"
+Running without a11y support!
+Gtk-Message: 11:15:59.128: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:15:59.128: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:15:59.130: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:15:59.131: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.518962) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.518962) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.519048) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596559525	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaJ1sp0/search.json.mozlz4", (void 0)))
+1640596561796	Marionette	INFO	Listening on port 37954
+1640596561916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596586499	Marionette	INFO	Stopped listening on port 37954
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640596588232	geckodriver	INFO	Listening on 127.0.0.1:49102
+1640596588239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilewC0cqq"
+Running without a11y support!
+Gtk-Message: 11:16:28.381: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:16:28.381: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:16:28.383: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:16:28.384: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.492386) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.492386) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.492505) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596588766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewC0cqq/search.json.mozlz4", (void 0)))
+1640596591085	Marionette	INFO	Listening on port 35756
+1640596591161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596599072	Marionette	INFO	Stopped listening on port 35756
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1640596695384	geckodriver	INFO	Listening on 127.0.0.1:34438
+1640596695393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehVl0Wu"
+Running without a11y support!
+Gtk-Message: 11:18:15.531: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:18:15.531: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:18:15.533: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:18:15.533: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.495995) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.495995) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.496097) [GFX1-]: glxtest: process failed (exited with status 1)
+1640596695914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehVl0Wu/search.json.mozlz4", (void 0)))
+1640596698200	Marionette	INFO	Listening on port 33952
+1640596698258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640596698602	Marionette	INFO	Stopped listening on port 33952
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640597135962	geckodriver	INFO	Listening on 127.0.0.1:43333
+1640597135967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXxeVwe"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640597159609	geckodriver	INFO	Listening on 127.0.0.1:44747
+1640597159617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXopa3x"
+Running without a11y support!
+Gtk-Message: 11:25:59.760: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:25:59.760: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:25:59.763: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:25:59.763: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.503848) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.503848) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.503935) [GFX1-]: glxtest: process failed (exited with status 1)
+1640597160156	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXopa3x/search.json.mozlz4", (void 0)))
+1640597162297	Marionette	INFO	Listening on port 36564
+1640597162410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640597162774	Marionette	INFO	Stopped listening on port 36564
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640597219749	geckodriver	INFO	Listening on 127.0.0.1:53128
+1640597219757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePktMN6"
+Running without a11y support!
+Gtk-Message: 11:26:59.908: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:26:59.908: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:26:59.911: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:26:59.911: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.53133) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.53133) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.531422) [GFX1-]: glxtest: process failed (exited with status 1)
+1640597220322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePktMN6/search.json.mozlz4", (void 0)))
+1640597222418	Marionette	INFO	Listening on port 39127
+1640597222534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640597223310	Marionette	INFO	Stopped listening on port 39127
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640597272075	geckodriver	INFO	Listening on 127.0.0.1:59388
+1640597272083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeofAHF"
+Running without a11y support!
+Gtk-Message: 11:27:52.231: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:27:52.232: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:27:52.234: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:27:52.234: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.490442) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.490442) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.490545) [GFX1-]: glxtest: process failed (exited with status 1)
+1640597272602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeofAHF/search.json.mozlz4", (void 0)))
+1640597274922	Marionette	INFO	Listening on port 35823
+1640597275051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640597275357	Marionette	INFO	Stopped listening on port 35823
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1640597691153	geckodriver	INFO	Listening on 127.0.0.1:46994
+1640597691161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLUVjex"
+Running without a11y support!
+Gtk-Message: 11:34:51.308: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:34:51.308: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:34:51.310: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:34:51.310: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.501599) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.501599) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.501698) [GFX1-]: glxtest: process failed (exited with status 1)
+1640597691696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLUVjex/search.json.mozlz4", (void 0)))
+1640597693927	Marionette	INFO	Listening on port 41805
+1640597694046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640597694824	Marionette	INFO	Stopped listening on port 41805
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640597734781	geckodriver	INFO	Listening on 127.0.0.1:52617
+1640597734786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepGmvcu"
+Running without a11y support!
+Gtk-Message: 11:35:34.918: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:35:34.918: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:35:34.921: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:35:34.921: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.492058) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.492058) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.492143) [GFX1-]: glxtest: process failed (exited with status 1)
+1640597735317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepGmvcu/search.json.mozlz4", (void 0)))
+1640597737468	Marionette	INFO	Listening on port 45774
+1640597737575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640597738144	Marionette	INFO	Stopped listening on port 45774
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640597926496	geckodriver	INFO	Listening on 127.0.0.1:49123
+1640597926503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFBbiDr"
+Running without a11y support!
+Gtk-Message: 11:38:46.640: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:38:46.640: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:38:46.642: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:38:46.642: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.474178) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.474178) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.474288) [GFX1-]: glxtest: process failed (exited with status 1)
+1640597927004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFBbiDr/search.json.mozlz4", (void 0)))
+1640597929091	Marionette	INFO	Listening on port 40252
+1640597929190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640597929965	Marionette	INFO	Stopped listening on port 40252
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640598194776	Marionette	INFO	Stopped listening on port 32837
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640598198705	geckodriver	INFO	Listening on 127.0.0.1:34235
+1640598198711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2FBKXA"
+Running without a11y support!
+Gtk-Message: 11:43:18.859: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:43:18.859: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:43:18.861: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:43:18.862: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.524629) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.524629) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.524727) [GFX1-]: glxtest: process failed (exited with status 1)
+1640598199264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2FBKXA/search.json.mozlz4", (void 0)))
+1640598201469	Marionette	INFO	Listening on port 46134
+1640598201600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640598202322	Marionette	INFO	Stopped listening on port 46134
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640598324784	geckodriver	INFO	Listening on 127.0.0.1:42361
+1640598325793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileP276yZ"
+Running without a11y support!
+Gtk-Message: 11:45:25.957: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:45:25.957: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:45:25.960: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:45:25.960: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.503806) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.503806) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.503895) [GFX1-]: glxtest: process failed (exited with status 1)
+1640598326329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP276yZ/search.json.mozlz4", (void 0)))
+1640598328431	Marionette	INFO	Listening on port 38557
+1640598328684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640598329180	Marionette	INFO	Stopped listening on port 38557
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1640598487662	geckodriver	INFO	Listening on 127.0.0.1:40458
+1640598487667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilez2lG6w"
+Running without a11y support!
+Gtk-Message: 11:48:07.807: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:48:07.807: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:48:07.810: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:48:07.810: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505332) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505332) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.505455) [GFX1-]: glxtest: process failed (exited with status 1)
+1640598488219	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez2lG6w/search.json.mozlz4", (void 0)))
+1640598490338	Marionette	INFO	Listening on port 34702
+1640598490459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640598491283	Marionette	INFO	Stopped listening on port 34702
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1640598528687	geckodriver	INFO	Listening on 127.0.0.1:45422
+1640598528692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilettP1Fv"
+Running without a11y support!
+Gtk-Message: 11:48:48.838: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:48:48.838: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:48:48.841: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:48:48.841: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.494003) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.494003) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.494111) [GFX1-]: glxtest: process failed (exited with status 1)
+1640598529215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilettP1Fv/search.json.mozlz4", (void 0)))
+1640598531346	Marionette	INFO	Listening on port 45425
+1640598531469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640598532199	Marionette	INFO	Stopped listening on port 45425
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1640598714663	geckodriver	INFO	Listening on 127.0.0.1:48921
+1640598714670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUuilVJ"
+Running without a11y support!
+Gtk-Message: 11:51:54.820: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:51:54.821: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:51:54.823: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:51:54.823: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.506437) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.506437) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.506528) [GFX1-]: glxtest: process failed (exited with status 1)
+1640598715210	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUuilVJ/search.json.mozlz4", (void 0)))
+1640598717232	Marionette	INFO	Listening on port 40762
+1640598717334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640598717841	Marionette	INFO	Stopped listening on port 40762
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640598846489	geckodriver	INFO	Listening on 127.0.0.1:40407
+1640598846494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerr9eux"
+Running without a11y support!
+Gtk-Message: 11:54:06.626: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:54:06.627: Failed to load module "pk-gtk-module"
+Gtk-Message: 11:54:06.631: Failed to load module "canberra-gtk-module"
+Gtk-Message: 11:54:06.631: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.479232) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.479232) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.479342) [GFX1-]: glxtest: process failed (exited with status 1)
+1640598847002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerr9eux/search.json.mozlz4", (void 0)))
+1640598849206	Marionette	INFO	Listening on port 33134
+1640598849308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640598850190	Marionette	INFO	Stopped listening on port 33134
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640608276439	geckodriver	INFO	Listening on 127.0.0.1:59505
+1640608276446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilewFNrzm"
+Running without a11y support!
+Gtk-Message: 14:31:16.925: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:16.925: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:31:16.946: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:16.947: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.981633) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.981633) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.981716) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608277458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewFNrzm/search.json.mozlz4", (void 0)))
+1640608279873	Marionette	INFO	Listening on port 40451
+1640608279956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608279991	geckodriver	INFO	Listening on 127.0.0.1:57616
+1640608280001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZ3BTTb"
+Running without a11y support!
+Gtk-Message: 14:31:20.301: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:20.301: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:31:20.305: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:20.305: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.733954) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.733954) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.734039) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608280779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ3BTTb/search.json.mozlz4", (void 0)))
+1640608283229	Marionette	INFO	Listening on port 37841
+1640608283306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608283366	geckodriver	INFO	Listening on 127.0.0.1:45366
+1640608283374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileh0d3cG"
+Running without a11y support!
+Gtk-Message: 14:31:23.707: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:23.707: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:31:23.711: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:23.711: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.848368) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.848368) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.848462) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608284306	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh0d3cG/search.json.mozlz4", (void 0)))
+1640608287062	Marionette	INFO	Listening on port 34180
+1640608287300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608287466	geckodriver	INFO	Listening on 127.0.0.1:44230
+1640608287472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMlJ3BA"
+Running without a11y support!
+Gtk-Message: 14:31:27.780: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:27.780: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:31:27.794: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:31:27.794: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.774652) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.774652) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.77475) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608288277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMlJ3BA/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.error: SearchService: "maybeReloadEngines failed" ({})
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+1640608292931	Marionette	INFO	Stopped listening on port 34180
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1640608294620	Marionette	INFO	Stopped listening on port 40451
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640608296667	Marionette	INFO	Stopped listening on port 37841
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640608372650	geckodriver	INFO	Listening on 127.0.0.1:35656
+1640608372659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3ehYBd"
+Running without a11y support!
+Gtk-Message: 14:32:52.861: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:52.862: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:32:52.866: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:52.866: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.626944) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.626944) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.627032) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608373312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3ehYBd/search.json.mozlz4", (void 0)))
+1640608375807	Marionette	INFO	Listening on port 41232
+1640608375917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608375958	geckodriver	INFO	Listening on 127.0.0.1:57079
+1640608375964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezLk3In"
+Running without a11y support!
+Gtk-Message: 14:32:56.194: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:56.194: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:32:56.196: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:56.196: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.581772) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.581772) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.581859) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608376588	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezLk3In/search.json.mozlz4", (void 0)))
+1640608378941	Marionette	INFO	Listening on port 36604
+1640608379180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608379299	geckodriver	INFO	Listening on 127.0.0.1:49625
+1640608379315	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenj8q7H"
+Running without a11y support!
+Gtk-Message: 14:32:59.497: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:59.497: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:32:59.499: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:32:59.499: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.558504) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.558504) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.558589) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608379914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenj8q7H/search.json.mozlz4", (void 0)))
+1640608382385	Marionette	INFO	Listening on port 33587
+1640608382597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608382732	geckodriver	INFO	Listening on 127.0.0.1:57346
+1640608382753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileof7OW6"
+Running without a11y support!
+Gtk-Message: 14:33:02.920: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:33:02.920: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:33:02.922: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:33:02.922: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.599921) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.599921) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.600013) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608383387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileof7OW6/search.json.mozlz4", (void 0)))
+1640608386107	Marionette	INFO	Listening on port 39742
+1640608386230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640608386293	geckodriver	INFO	Listening on 127.0.0.1:48575
+1640608386300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9Jhzjo"
+Running without a11y support!
+Gtk-Message: 14:33:06.605: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:33:06.605: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:33:06.610: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:33:06.610: Failed to load module "pk-gtk-module"
+1640608386996	Marionette	INFO	Stopped listening on port 36604
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=1.08189) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=1.08189) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=1.08197) [GFX1-]: glxtest: process failed (exited with status 1)
+1640608387499	Marionette	INFO	Marionette enabled
+1640608388063	Marionette	INFO	Stopped listening on port 39742
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640608389186	Marionette	INFO	Stopped listening on port 33587
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Jhzjo/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640608392372	Marionette	INFO	Stopped listening on port 41232
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640609126021	geckodriver	INFO	Listening on 127.0.0.1:47178
+1640609126025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileqiP3O5"
+Running without a11y support!
+Gtk-Message: 14:45:26.302: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:26.302: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:45:26.305: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:26.305: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.704535) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.704535) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.704628) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609126763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqiP3O5/search.json.mozlz4", (void 0)))
+1640609128936	Marionette	INFO	Listening on port 37585
+1640609129021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640609129086	geckodriver	INFO	Listening on 127.0.0.1:41155
+1640609129101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegKnGWM"
+Running without a11y support!
+Gtk-Message: 14:45:29.418: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:29.418: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:45:29.423: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:29.423: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.688526) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.688526) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.688611) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609129818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegKnGWM/search.json.mozlz4", (void 0)))
+1640609132510	Marionette	INFO	Listening on port 42369
+1640609132585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640609132612	geckodriver	INFO	Listening on 127.0.0.1:56087
+1640609132617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileLUzT1l"
+Running without a11y support!
+Gtk-Message: 14:45:32.878: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:32.878: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:45:32.882: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:32.882: Failed to load module "pk-gtk-module"
+1640609133113	Marionette	INFO	Stopped listening on port 37585
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=1.12951) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=1.12951) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=1.12959) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609133827	Marionette	INFO	Marionette enabled
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLUzT1l/search.json.mozlz4", (void 0)))
+1640609136710	Marionette	INFO	Listening on port 44950
+1640609136804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640609136833	geckodriver	INFO	Listening on 127.0.0.1:36626
+1640609136852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSaM1Gz"
+Running without a11y support!
+Gtk-Message: 14:45:37.019: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:37.019: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:45:37.021: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:45:37.021: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.683274) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.683274) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.683361) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609137600	Marionette	INFO	Marionette enabled
+1640609138711	Marionette	INFO	Stopped listening on port 44950
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSaM1Gz/search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/CrashMonitor.jsm, line 201: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640609142004	Marionette	INFO	Stopped listening on port 42369
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640609648036	geckodriver	INFO	Listening on 127.0.0.1:44980
+1640609648043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTG3uNK"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640609657294	geckodriver	INFO	Listening on 127.0.0.1:33487
+1640609657301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeNWDG3"
+Running without a11y support!
+Gtk-Message: 14:54:17.441: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:54:17.441: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:54:17.443: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:54:17.444: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.499567) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.499567) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.499665) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609657837	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeNWDG3/search.json.mozlz4", (void 0)))
+1640609660273	Marionette	INFO	Listening on port 42289
+1640609660364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640609666973	Marionette	INFO	Stopped listening on port 42289
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640609672521	geckodriver	INFO	Listening on 127.0.0.1:52589
+1640609672526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileocTOoc"
+Running without a11y support!
+Gtk-Message: 14:54:32.662: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:54:32.663: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:54:32.665: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:54:32.665: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.4733) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.4733) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.47339) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609673034	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileocTOoc/search.json.mozlz4", (void 0)))
+1640609675440	Marionette	INFO	Listening on port 43262
+1640609675555	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640609693966	Marionette	INFO	Stopped listening on port 43262
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640609727329	geckodriver	INFO	Listening on 127.0.0.1:51749
+1640609727334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeArQ6x"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640609861267	geckodriver	INFO	Listening on 127.0.0.1:44105
+1640609861274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile5YgSTA"
+Running without a11y support!
+Gtk-Message: 14:57:41.422: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:57:41.422: Failed to load module "pk-gtk-module"
+Gtk-Message: 14:57:41.425: Failed to load module "canberra-gtk-module"
+Gtk-Message: 14:57:41.425: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505289) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.505289) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.50542) [GFX1-]: glxtest: process failed (exited with status 1)
+1640609861815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5YgSTA/search.json.mozlz4", (void 0)))
+1640609864003	Marionette	INFO	Listening on port 38902
+1640609864214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640609864527	Marionette	INFO	Stopped listening on port 38902
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1640613369114	geckodriver	INFO	Listening on 127.0.0.1:41058
+1640613370121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRF6nFA"
+Running without a11y support!
+Gtk-Message: 15:56:10.262: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:56:10.262: Failed to load module "pk-gtk-module"
+Gtk-Message: 15:56:10.264: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:56:10.264: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.469535) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.469535) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.469626) [GFX1-]: glxtest: process failed (exited with status 1)
+1640613370624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRF6nFA/search.json.mozlz4", (void 0)))
+1640613372914	Marionette	INFO	Listening on port 45517
+1640613373033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640613373316	Marionette	INFO	Stopped listening on port 45517
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1640614539891	geckodriver	INFO	Listening on 127.0.0.1:42886
+1640614539896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileZzOE88"
+Running without a11y support!
+Gtk-Message: 16:15:40.058: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:15:40.058: Failed to load module "pk-gtk-module"
+Gtk-Message: 16:15:40.065: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:15:40.065: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.547984) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.547984) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.548072) [GFX1-]: glxtest: process failed (exited with status 1)
+1640614540479	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZzOE88/search.json.mozlz4", (void 0)))
+1640614542821	Marionette	INFO	Listening on port 44225
+1640614542942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640614543338	Marionette	INFO	Stopped listening on port 44225
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1640766203412	geckodriver	INFO	Listening on 127.0.0.1:48134
+1640766203417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefmEdOF"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640766253448	geckodriver	INFO	Listening on 127.0.0.1:52725
+1640766253454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerGdKLF"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640766584601	geckodriver	INFO	Listening on 127.0.0.1:55439
+1640766584609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3thcIR"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640766591729	geckodriver	INFO	Listening on 127.0.0.1:47654
+1640766591734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilen2Bx2s"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+Error: no DISPLAY environment variable specified
+1640766640195	geckodriver	INFO	Listening on 127.0.0.1:40471
+1640766640199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilewuTysn"
+Running without a11y support!
+Gtk-Message: 10:30:40.325: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:30:40.326: Failed to load module "pk-gtk-module"
+Gtk-Message: 10:30:40.328: Failed to load module "canberra-gtk-module"
+Gtk-Message: 10:30:40.328: Failed to load module "pk-gtk-module"
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.458458) [GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32
+Crash Annotation GraphicsCriticalError: |[0][GFX1-]: glxtest: X error, error_code=1, request_code=151, minor_code=32 (t=0.458458) |[1][GFX1-]: glxtest: process failed (exited with status 1) (t=0.458546) [GFX1-]: glxtest: process failed (exited with status 1)
+1640766640690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewuTysn/search.json.mozlz4", (void 0)))
+1640766643125	Marionette	INFO	Listening on port 43187
+1640766643184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1640766643580	Marionette	INFO	Stopped listening on port 43187
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown

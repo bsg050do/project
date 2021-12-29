@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 import random,time,os
-from Score import add_score
+from Score import add_score, null_score
 from Utils import screen_cleaner
 
 def generate_sequence(difficulty):
@@ -52,4 +52,5 @@ if __name__ == "__main__":
      add_score(difficulty)
      
   elif res == False:
-     print("\nYou lost")
+     print("\nYOU LOST")
+     null_score()
